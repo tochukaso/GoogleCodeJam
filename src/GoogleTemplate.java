@@ -138,7 +138,7 @@ public class GoogleTemplate {
      }
 
     /***
-     * Å‘åŒö–ñ”‚ğ‹‚ß‚éŠÖ”
+     * æœ€å¤§å…¬ç´„æ•°ã‚’æ±‚ã‚ã‚‹é–¢æ•°
      * @param n1
      * @param n2
      * @return

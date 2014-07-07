@@ -33,7 +33,7 @@ public class PastGoogle2013_1A_a {
         app.solve();
     }
     /***
-     * Å‘åŒö–ñ”‚ğ‹‚ß‚éŠÖ”
+     * æœ€å¤§å…¬ç´„æ•°ã‚’æ±‚ã‚ã‚‹é–¢æ•°
      * @param n1
      * @param n2
      * @return

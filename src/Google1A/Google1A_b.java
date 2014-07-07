@@ -193,7 +193,7 @@ public class Google1A_b {
 }
 
 /**
- * ƒvƒƒOƒ‰ƒ~ƒ“ƒOƒRƒ“ƒeƒXƒgƒ`ƒƒƒŒƒ“ƒWƒuƒbƒN‘æ2”Å
+ * ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ã‚³ãƒ³ãƒ†ã‚¹ãƒˆãƒãƒ£ãƒ¬ãƒ³ã‚¸ãƒ–ãƒƒã‚¯ç¬¬2ç‰ˆ
  * unionFind
  * @author Yasu
  *
